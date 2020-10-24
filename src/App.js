@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hola Desde Diego
+        <p>Al Oeste en Phildalephia crecía y vivía sin hacer mucho caso a la policía</p>
         </a>
       </header>
     </div>
